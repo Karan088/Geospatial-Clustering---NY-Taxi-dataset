@@ -1,4 +1,8 @@
 # New York Taxi Pickup and Drop-off Clustering Analysis
+
+https://www.kaggle.com/code/karansubramaniam/ny-taxi-dataset-clustering?scriptVersionId=195684032
+(Refer Kaggle and upnote if you are interested)
+
 This project analyzes New York City taxi pickup and drop-off locations to identify high-demand hotspots and optimize fleet management and dispatch strategies. By employing DBSCAN (Density-Based Spatial Clustering of Applications with Noise), this study provides actionable insights into passenger travel patterns and resource allocation across the city.
 
 **Project Overview**
